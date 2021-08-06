@@ -1,0 +1,21 @@
+{
+	"bruxos": [
+      {
+       "nome":"Hermione Granger",
+       "foto":"https://i.pinimg.com/736x/f7/f0/21/f7f021be8411dcfc047661cb1e6b2ac3.jpg",
+       "casa":"Grifinória"
+      },
+      {
+       "nome":"Harry Potter",
+       "foto":"https://i.pinimg.com/originals/de/77/ed/de77ed98e4faddf8bcc82e0c109f2cbe.jpg",
+       "casa":"Grifinória"
+      }
+	],
+	"criaturas": [
+      {
+      	"nome":"Centauro",
+      	"classe":"XXX",
+      	"foto":"https://i.pinimg.com/originals/45/eb/56/45eb5695c0ef50078cf4a2599b2138b3.jpg"
+      }
+	]
+}
