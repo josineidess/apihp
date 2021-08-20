@@ -1,21 +1,57 @@
 {
-	"bruxos": [
+	"bruxos": [    
       {
-       "nome":"Hermione Granger",
-       "foto":"https://i.pinimg.com/736x/f7/f0/21/f7f021be8411dcfc047661cb1e6b2ac3.jpg",
-       "casa":"Grifinória"
+       "nome": "Aberforth Dumbledore",
+       "nome_completo": "Aberforth Dumbledore",
+       "foto": {"endereco":"https://i.pinimg.com/originals/02/e9/cb/02e9cb5bdd617d4d543666dd6dfe38d9.jpg","aut":"Pinterest by DevianArt"},
+       "casa": "Grifinória",
+       "varinha": {"madeira":"indefinido","nucleo":"indefinido","comprimento":"indefinido","flexibilidade":"indefinido"},
+       "sangue": "Mestiço",
+       "nascimento": "1883",
+       "morte": "indefinido",
+       "figurinha": false,
+       "organizacoes": ["Ordem da fênix"],
+       "especie": "Humano",
+       "time":"indefinido",
+       "profissao":"Dono do bar cabeça de javali",
+       "escola":"Hogwarts",
+       "patrono":"Cabra"
       },
       {
-       "nome":"Harry Potter",
-       "foto":"https://i.pinimg.com/originals/de/77/ed/de77ed98e4faddf8bcc82e0c109f2cbe.jpg",
-       "casa":"Grifinória"
-      }
-	],
-	"criaturas": [
+       "nome": "Alastor Moody",
+       "nome_completo": "Alastor Mad-Eye Moody",
+       "foto": {"endereco":"https://cdnb.artstation.com/p/assets/images/images/004/323/339/large/devin-quigley-mx-eye-moody.jpg?1482426016","alt":"Artstation by Devin Quigley"},
+       "casa": "Lufa-Lufa",
+       "varinha": {"madeira":"indefinido","nucleo":"indefinido","comprimento":"indefinido","flexibilidade":"indefinido"},
+       "sangue": "Puro sangue",
+       "nascimento": "08/03/1909",
+       "morte": "30/07/1997",
+       "figurinha": false,
+       "organizacoes": ["Ordem da fênix"],
+       "especie": "Humano",
+       "time":"indefinido",
+       "profissao":"Auror",
+       "escola":"Hogwarts",
+       "patrono":"indefinido"
+      },
       {
-      	"nome":"Centauro",
-      	"classe":"XXX",
-      	"foto":"https://i.pinimg.com/originals/45/eb/56/45eb5695c0ef50078cf4a2599b2138b3.jpg"
+       "nome": "Alvo Dumbledore",
+       "nome_completo": "Alvo Percival Wulfrico Brian Dumbledore",
+       "foto": {"endereco":"https://i.pinimg.com/originals/22/46/03/2246032cd941927973d9d883f0911a02.jpg","alt":"Pinterest by DevianArt"},
+       "casa": "Grifinória",
+       "varinha": {"madeira":"Sabugueiro","nucleo":"Pelo da cauda de testrálio","comprimento":"38.1","flexibilidade":"Inquebrável"},
+       "sangue": "Mestiço",
+       "nascimento": "21/08/1881",
+       "morte": "30/06/1997",
+       "figurinha": true,
+       "organizacoes": ["Ordem da fênix"],
+       "especie": "Humano",
+       "time":"Puddlemere",
+       "profissao":"Diretor",
+       "escola":"Hogwarts",
+       "patrono":"Fênix"
       }
+      ],
+	"criaturas": [
 	]
 }
