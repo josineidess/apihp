@@ -50,6 +50,22 @@
        "profissao":"Diretor",
        "escola":"Hogwarts",
        "patrono":"Fênix"
+      },	    {
+       "nome":"",
+       "nome_completo":"",
+       "foto":{"endereco":"","alt":""},
+       "casa":"",
+       "varinha":{"madeira":"","nucleo":"","comprimento":"","flexibilidade":""},
+       "sangue":"",
+       "nascimento":"",
+       "morte":"",
+       "figurinha":"",
+       "organizacoes":[],
+       "especie":"",
+       "time":"",
+       "profissao":"",
+       "escola":"",
+       "patrono":""
       }
       ],
 	"criaturas": [
