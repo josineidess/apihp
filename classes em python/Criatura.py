@@ -2,8 +2,8 @@ from Personagem import Personagem
 
 
 class Criatura(Personagem):
-    def __init__(self, nome, especie, foto, classificacao, descricao):
-        super().__init__(nome, especie, foto)
+    def __init__(self, nome, condicao, foto, classificacao, descricao):
+        super().__init__(nome, condicao, foto)
         self.__classificacao = classificacao
         self.__descricao = descricao
 

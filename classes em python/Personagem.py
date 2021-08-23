@@ -2,9 +2,9 @@ from abc import ABC, abstractmethod
 
 class Personagem(ABC):
     @abstractmethod
-    def __init__(self,nome,especie,foto):
+    def __init__(self,nome,condicao,foto):
         self.__nome = nome
-        self.__especie = especie
+        self.__condicao = condicao
         self.__foto = foto
 
     @property
@@ -12,8 +12,8 @@ class Personagem(ABC):
         return self.__nome
 
     @property
-    def especie(self):          
-        return self.__especie
+    def condicao(self):          
+        return self.__condicao
 
     @property
     def foto(self):

@@ -1,8 +1,8 @@
 from Personagem import Personagem
 
 class Bruxo(Personagem):
-    def __init__(self,nome,especie,foto,casa,varinha,sangue,nascimento,morte,figurinha,organizacoes,time,profissao,escola,patrono):
-        super().__init__(nome,especie,foto)
+    def __init__(self,nome,condicao,foto,casa,varinha,sangue,nascimento,morte,figurinha,organizacoes,time,profissao,escola,patrono):
+        super().__init__(nome,condicao,foto)
         self.__casa = casa
         self.__varinha = varinha
         self.__sangue = sangue
