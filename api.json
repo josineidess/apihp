@@ -1,5 +1,5 @@
 {
-	"bruxos": [    
+  "bruxos": [    
       {
        "nome": "Aberforth Dumbledore",
        "nome_completo": "Aberforth Dumbledore",
@@ -188,7 +188,7 @@
       "patrono":""
       }
       ],
-	"criaturas_definicao": [
+ "criaturas_definicao": [
       {
        "nome":"Abraxano",
        "condicao":"Animal não falante",
@@ -232,11 +232,76 @@
        "descricao":{"caracteristicas":"É uma praga esverdeada, de muitos olhos, que se alimenta de sujeira e pode destruir uma casa inteira. Sua presença é indicada pelo mau cheiro da decadência.","habitat":"É uma criatura mágica encontrada em todo o mundo.","reproducao":"Não assexuada"}
       },
       {
+       "nome":"Barrete Vermelho",
+       "condicao":"Animal não falante",
+       "foto":{"endereco":"https://pm1.narvii.com/6308/8c44a067ae19077ae80a51beae1474552d28b962_hq.jpg","alt":"Amino by ??"},
+       "classificacao":"XXX",
+       "descricao":{"caracteristicas":"É uma criatura anã que atacam quem se perderam e, mesmo que sejam extremamente perigosos para trouxas que estiverem sozinhos, um bruxo pode repeli-los com feitiços e azarações. Os Barretes Vermelhos têm cerca de um metro de altura, com olhos vermelhos e unhas longas e afiadas.","habitat":"Essas criaturas anãs vivem em crateras de antigos campos de batalha ou onde quer que o sangue humano tenha sido derramado","reproducao":"indefinido"}
+      },
+      {
+       "nome":"Barriga-de-Ferro Ucraniano",
+       "condicao":"Animal não falante",
+       "foto":{"endereco":"https://pm1.narvii.com/6443/df759f9564435f6318683b7190f6924115fd390b_hq.jpg","alt":"Amino by ??"},
+       "classificacao":"XXXXX",
+       "descricao":{"caracteristicas":"É uma raça bípede, de cor cinza metálico, com uma imensa envergadura, garras longas e escamas ásperas. É a maior raça de dragão e atinge até seis toneladas, e seus olhos são vermelho escuros.","habitat":"É um dragão nativo de Portugal.","reproducao":"Ssexuada"}
+      },
+      {
+       "nome":"Basilisco",
+       "condicao":"Animal não falante(A não ser com ofidioglotas...)",
+       "foto":{"endereco":"https://segredosdomundo.r7.com/wp-content/uploads/2021/02/basilisco-origem-do-animal-na-mitologia-e-no-mundo-animal-da-vida-real.jpg","alt":"By Mythology & Fiction Explained"},
+       "classificacao":"XXXXX",
+       "descricao":{"caracteristicas":"O basilisco pode crescer até seis metros de comprimento e é uma cor verde escura com grandes olhos amarelos. Esses olhos têm o poder de matar instantaneamente qualquer um que olhe para eles. A pele do basilisco é blindada como a de um dragão, que desvia feitiços lançados sobre ela. Pode petrificar ou até matar a quem lhe olha nos olhos, além de ter um veneno muito perigoso, cujo o único antídoto conhecido seria as raras lágrimas de fênix.","habitat":"Em qualquer lugar onde haja um corpo de água.","reproducao":"Criado através da chocação de um sapo a um ovo de galinha."}
+      },
+      {
+       "nome":"Besouro-da-Melancolia",
+       "condicao":"Animal não falante",
+       "foto":{"endereco":"http://pm1.narvii.com/6305/5befbe1b77442356b05a544b69f021ce500aa41a_00.jpg","alt":"Amino by ??"},
+       "classificacao":"XXX",
+       "descricao":{"caracteristicas":" é um inseto voador, cinzento, de corpo peludo; produz uma secreção que induz a melancolia e é usado como antídoto para a histeria causada pela ingestão das folhas de aliquente. Sabe-se que esse besouro pode infestar colmeias com efeitos desastrosos para o mel.","habitat":"Ele faz ninho em lugares escuros e protegidos tais como o oco das árvores e grutas. Alimenta-se de urtigas.","reproducao":"Ssexuada"}
+      },
+      {
+       "nome":"Bezerro Apaixonado",
+       "condicao":"Animal não falante",
+       "foto":{"endereco":"https://static.wikia.nocookie.net/harrypotter/images/2/23/Bezerro_Apaixonado_1.png/revision/latest/top-crop/width/360/height/450?cb=20180502185540&path-prefix=pt-br","alt":"Harry Potter wiki by ??"},
+       "classificacao":"XX",
+       "descricao":{"caracteristicas":"Possui um corpo liso e cinza-claro, olhos redondos e salientes, e quatro perninhas finas que terminam em pés de pato, além de um pescoço comprido.","habitat": "Pode ser encontrado no mundo inteiro,inclusive na maleta do Newt.","reproducao":"Ssexuada"}
+      },
+      {
        "nome":"",
        "condicao":"",
        "foto":{"endereco":"","alt":""},
        "classificacao":"",
        "descricao":{"caracteristicas":"","habitat":"","reproducao":""}
-      },
+      }
+	],
+ "simbolos":{
+	"setas": {"no":"↖","ne":"↗","se":"↘","so":"↙","s":"↓","o":"←","e":"→","n":"↑"}
+ },
+ "feiticos": 
+	[
+	{
+	 "nome":"Amuser Incantatem",
+	 "efeito":"Feitiço para Animar. Usado para deixar as pessoas felizes.",
+	 "tipo":"Cura",
+	 "cor":"Amarelo,#EEAD2D",
+	 "sequencias_de_movimentos":[],
+	 "dificuldade":"4"
+	},
+	{
+	 "nome":"Accio",
+         "efeito":"Puxa",
+	 "tipo":"Usado para chamar itens de longa distância para as mãos do bruxo.",
+	 "cor":"Azul,#0047AB",
+	 "sequencias_de_movimentos":[],
+	 "dificuldade":"3"
+	},
+	{
+	 "nome":"",
+         "efeito":"",
+	 "tipo":"",
+	 "cor":"",
+	 "sequencias_de_movimentos":[],
+	 "dificuldade":""
+	}
 	]
 }
