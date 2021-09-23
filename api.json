@@ -171,6 +171,57 @@
       "patrono":"indefinido"
       },
       {
+      "nome":"Amico Carrow",
+      "nome_completo":"Amico Carrow",
+      "foto":{"endereco":"https://pm1.narvii.com/6984/7b56ed6305dc32b6ec010c95b3c8fd1ba60a383er1-474-647v2_hq.jpg","alt":"?? by Amino"},
+      "casa":"Sonserina",
+      "varinha":{"madeira":"indefinido","nucleo":"indefinido","comprimento":"indefinido","flexibilidade":"indefinido"},
+      "sangue":"Mestiço ou Puro",
+      "nascimento":"indefinido",
+      "morte":"indefinido",
+      "figurinha":false,
+      "organizacoes":["Comensais da morte"],
+      "condicao":"Humana",
+      "time":"indefinido",
+      "profissao":"Professor de artes das trevas",
+      "escola":"Hogwarts",
+      "patrono":"indefinido"
+      },
+      {
+      "nome":"Antônio Dolohov",
+      "nome_completo":"Antônio Dolohov",
+      "foto":{"endereco":"https://static.wikia.nocookie.net/harrypotter/images/0/0b/Dolohov_Pottermore.png/revision/latest/scale-to-width-down/1267?cb=20180102195915","alt":"Harry Potter Wiki"},
+      "casa":"indefinido",
+      "varinha":{"madeira":"indefinido","nucleo":"indefinido","comprimento":"indefinido","flexibilidade":"indefinido"},
+      "sangue":"Mestiço ou Puro",
+      "nascimento":"1955",
+      "morte":"indefinido",
+      "figurinha":false,
+      "organizacoes":["Comensais da morte"],
+      "condicao":"Humana",
+      "time":"indefinido",
+      "profissao":"indefinido",
+      "escola":"Durmstrang",
+      "patrono":"indefinido"
+      }
+      {
+      "nome":"Augusto Rookwood",
+      "nome_completo":"Augusto Rookwood",
+      "foto":{"endereco":"https://i.pinimg.com/564x/4b/87/5a/4b875a441e2a394126cd6b6ec05a8de7.jpg","alt":"By Wizard World"},
+      "casa":"indefinido",
+      "varinha":{"madeira":"indefinido","nucleo":"indefinido","comprimento":"indefinido","flexibilidade":"indefinido"},
+      "sangue":"Mestiço ou Puro",
+      "nascimento":"indefinido",
+      "morte":"indefinido",
+      "figurinha":false,
+      "organizacoes":["Comensais da morte","Ministério da magia"],
+      "condicao":"Humana",
+      "time":"indefinido",
+      "profissao":"Inominável no Departamento de Mistérios",
+      "escola":"Hogwarts",
+      "patrono":"indefinido"
+      }
+{
       "nome":"",
       "nome_completo":"",
       "foto":{"endereco":"","alt":""},
