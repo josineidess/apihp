@@ -221,7 +221,24 @@
       "escola":"Hogwarts",
       "patrono":"indefinido"
       }
-{
+     {
+      "nome":"Avery",
+      "nome_completo":"Avery",
+      "foto":{"endereco":"https://www.hp-lexicon.org/wp-content/uploads/2017/01/death_eater_card_no_14_by_madcarrot.jpg","alt":"By site Harry Potter Lexicon"},
+      "casa":"Sonserina",
+      "varinha":{"madeira":"indefinido","nucleo":"indefinido","comprimento":"indefinido","flexibilidade":"indefinido"},
+      "sangue":"Puro",
+      "nascimento":"Década de 30",
+      "morte":"indefinido",
+      "figurinha":false,
+      "organizacoes":["Comensais da morte],
+      "condicao":"Humana",
+      "time":"indefinido",
+      "profissao":"indefinido",
+      "escola":"Hogwarts",
+      "patrono":"indefinido"
+      },
+ {
       "nome":"",
       "nome_completo":"",
       "foto":{"endereco":"","alt":""},
